@@ -1,7 +1,7 @@
 import pygame
 import random
 
-
+# final try try try????
 def main():
     try:
         pygame.init()
